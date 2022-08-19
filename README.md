@@ -1,2 +1,2 @@
 Hello world!
-Branch stopa
+Branch leaf
